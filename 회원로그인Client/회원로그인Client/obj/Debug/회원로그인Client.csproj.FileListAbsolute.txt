@@ -1,0 +1,11 @@
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.csprojAssemblyReference.cache
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.Form1.resources
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.MainForm.resources
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.Properties.Resources.resources
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.csproj.GenerateResource.cache
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.csproj.CoreCompileInputs.cache
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\bin\Debug\회원로그인Client.exe.config
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\bin\Debug\회원로그인Client.exe
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\bin\Debug\회원로그인Client.pdb
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.exe
+C:\Users\이진우\Desktop\code\회원로그인Client\회원로그인Client\obj\Debug\회원로그인Client.pdb

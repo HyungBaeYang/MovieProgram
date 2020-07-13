@@ -1,0 +1,11 @@
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\bin\Debug\회원_로그인_Test.exe.config
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\bin\Debug\회원_로그인_Test.exe
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\bin\Debug\회원_로그인_Test.pdb
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.csprojAssemblyReference.cache
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.Form1.resources
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.Properties.Resources.resources
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.csproj.GenerateResource.cache
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.csproj.CoreCompileInputs.cache
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.exe
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.pdb
+C:\Users\이진우\Desktop\code\회원_로그인_Test\회원_로그인_Test\obj\Debug\회원_로그인_Test.MainForm.resources
